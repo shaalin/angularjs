@@ -1,0 +1,11 @@
+{
+  "name": "phone-app",
+  "description": "Android phones app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.2.x",
+    "mongoose": "3.6.x",
+    "connect-redis":"1.4.x"
+  }
+}
